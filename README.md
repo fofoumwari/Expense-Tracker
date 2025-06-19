@@ -19,8 +19,8 @@ This is a simple, responsive Expense Tracker built using HTML5, CSS3, and JavaSc
 
 ## 🔗 Live Demo
 
-[View Live Project](https://your-username.github.io/expense-tracker/)  
-_Replace this link with your actual GitHub Pages URL_
+[View Live Project](https://github.com/fofoumwari/Expense-Tracker.git)  
+
 
 ## 👩‍💻 Author
 
